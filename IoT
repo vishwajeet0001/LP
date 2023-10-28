@@ -1,4 +1,4 @@
-SENSOR
+#1 ASSI-SENSOR
 
 import time
 import RPi.GPIO as GPIO
@@ -37,7 +37,7 @@ finally:
 
 
 
-#2 LED BLINKING
+#2 ASSI-LED BLINKING
 
 import time
 import RPi.GPIO as GPIO
